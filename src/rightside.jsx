@@ -4,9 +4,9 @@ import { FaAngleRight } from "react-icons/fa";
 export function RightSide() {
   return (
     <div className=" md:mt-0 mt-5 flex flex-col w-screen md:w-[25vw] md:px-[40px] md:pt-[20px] md:h-screen gap-y-5 ">
-      <div className="bg-[#edf8fa] h-[50vh] md:h-[60vh] flex flex-col gap-y-5  rounded-t-[25px] md:rounded-[10px] pt-5">
+      <div className="bg-[#edf8fa] h-[50vh] md:h-[60vh] flex flex-col gap-y-3  rounded-t-[25px] md:rounded-[10px] pt-5">
         <h1 className="font-bold text-[20px]  mx-7">Retirement Strategy</h1>
-        <div className="flex flex-col border-b-2 border-slate-200 h-[20vh] gap-y-2.5 mx-7">
+        <div className="flex flex-col border-b-2 border-slate-200 h-[30vh] md:h-[20vh] gap-y-2.5 mx-7">
           <label className="font-bold" htmlFor="Range">
             Employee Contribution
           </label>

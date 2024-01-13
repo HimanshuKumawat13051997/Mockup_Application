@@ -43,14 +43,14 @@ export function UserInfo() {
         </h1>
         <div className="flex flex-col border-b-2 border-slate-200 h-[50px]">
           <span className="text-slate-500 text-[11px]">2020-08-07</span>
-          <span className="font-bold text-[15.3px]  md:text-[13px]">
+          <span className="font-bold text-[13px]  md:text-[13px]">
             Withdrawal Transfer to Bank-XXXX11
           </span>
         </div>
         <div>
           <div className="flex flex-col border-b-2 border-slate-200 h-[50px] ">
             <span className="text-slate-500 text-[11px]">2020-07-21</span>
-            <span className="font-bold text-[15.3px] md:text-[13px]">
+            <span className="font-bold text-[13px] md:text-[13px]">
               Withdrawal Transfer to Bank-XXXX11
             </span>
           </div>
@@ -58,7 +58,7 @@ export function UserInfo() {
         <div>
           <div className="flex flex-col border-b-2 border-slate-200 h-[50px] ">
             <span className="text-slate-500 text-[11px]">2020-07-16</span>
-            <span className="font-bold text-[15.3px]  md:text-[13px]">
+            <span className="font-bold text-[13px]  md:text-[13px]">
               Withdrawal Transfer to Bank-XXXX11
             </span>
           </div>
